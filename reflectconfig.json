@@ -1,0 +1,17 @@
+[
+  {
+  "name" : "bootstrap.Request",
+  "allDeclaredConstructors" : true,
+  "allPublicConstructors" : true,
+  "allDeclaredMethods" : true,
+  "allPublicMethods" : true
+  },
+  {
+    "name" : "bootstrap.Response",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true,
+    "allPublicFields": true
+  }
+]
